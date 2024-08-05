@@ -1,2 +1,2 @@
-# JsonCompressor
- A micro-compressor for json data that efficiently reduces the size of json data to 58%
+# Json Compressor
+A micro-compressor for JSON data that efficiently reduces the size of JSON objects by up to **58%**, leveraging basic compression techniques.
